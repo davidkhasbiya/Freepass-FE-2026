@@ -15,8 +15,8 @@ Develop a website application platform using Framework  **NextJs with Typescript
 ## 🚀 Technical Requirements
 
 ### 1. Core Functionality
-* CRUD Operations: The app must successfully execute Create, Read, Update, and Delete actions
-* State Management: Implement a scalable state management solution (e.g., Redux or React Context, props, or point plus library thats it zustand)
+* **CRUD Operations**: The app must successfully execute Create, Read, Update, and Delete actions
+* **State Management**: Implement a scalable state management solution (e.g., Redux or React Context, props, or point plus library thats it zustand)
 
 ### 2. Networking Data
 * **API Integration**: Perform RESTFull API clas using method such as `CREATE`, `GET`, `UPDATE`, `DELETE`.
