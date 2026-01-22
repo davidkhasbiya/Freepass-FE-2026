@@ -85,7 +85,7 @@ While original UI design is not mandatory, the app should be polished and intuit
 3. Create a branch with a descriptive name to work (i.e., git checkout -b your-name).
 4. Make changes, commit them, and push the branch to your repository fork.
 5. [Submit a pull request](https://help.github.com/articles/using-pull-requests) to the main branch.
-6. Don't forget to leave your identity such as name and NIM in your Pull Request
+6. Don't forget to leave your identity such as name and NIM in your Pull Request. for example (Muhammad Zaid Robbani - 245150207111012) 
 7. After submit Pull Request, please fill your identity at this [form](https://clips.id/FormFreePass-FE-BCC2025). We will contact you ASAP for the interview session
 
 ## 📝 Submission Convention
