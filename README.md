@@ -98,7 +98,7 @@ The deployed app must be:
 4. Make changes, commit them, and push the branch to your repository fork.
 5. [Submit a pull request](https://help.github.com/articles/using-pull-requests) to the main branch.
 6. Don't forget to leave your identity such as name and NIM in your Pull Request. for example (Muhammad Zaid Robbani - 245150207111012) 
-7. After submit Pull Request, please fill your identity at this [form](clips.id/Freepass-FE-2026). We will contact you ASAP for the interview session
+7. After submit Pull Request, please fill your identity at this [form](https://forms.gle/3XgcVtc6DVeKnKYx9). We will contact you ASAP for the interview session
 
 ## 📝 Submission Convention
 1. Project submitted must be your own work.
