@@ -1,7 +1,7 @@
 # Tugas Seleksi Front-End BCC 2026
 **Nama:** Ahmad David Khasbiya
 **NIM:** 255150207111116
-**Link Deploy:** [Nanti isi dengan link Vercel-mu]
+**Link Deploy:** https://ahmaddavidkhasbiya-freepass-fe-2026.vercel.app/
 **Deskripsi Singkat Website:** 
 My Todo List adalah website manajemen tugas harian yang digunakan untuk persyaratan Free Pass BCC 2026. Website ini mengimplementasikan:
 - API Integration: Mengambil data awal dari JSONPlaceholder.
